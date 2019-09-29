@@ -214,6 +214,9 @@ document.addEventListener('wheel', window.onmousewheel = document.onmousewheel =
 
 function zoom(s,mx,my)
 {
+	if (transmatrix[0] < 0.5 && s < 1 || transmatrix[0] > 100 && s > 1) {
+		return;
+	}
 	for (var i = 0; i < transmatrix.length; i++)
 	{
 		transmatrix[i] *= s;
