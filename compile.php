@@ -202,13 +202,14 @@ window.onmousemove = function(e)
 	um();
 };
 
-window.onmousewheel = document.onmousewheel = function(e)
+document.addEventListener('wheel', window.onmousewheel = document.onmousewheel = function(e)
 {
+	e.preventDefault();
 	if (e.deltaY != 0)
 	{
 		zoom(e.deltaY<0?1.25:0.8, e.clientX / window.innerWidth, e.clientY / window.innerHeight);
 	}
-};
+});
 
 
 function zoom(s,mx,my)
