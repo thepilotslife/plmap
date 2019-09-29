@@ -34,6 +34,9 @@ $d = <<<d
 		<br/>
 		Greetings to all my PL buddies<br/>
 	</p>
+	<hr/>
+	<h2>Source</h2>
+	<p><a href="https://github.com/thepilotslife/plmap">https://github.com/thepilotslife/plmap</a></p>
 </body>
 </html>
 d;
