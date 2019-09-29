@@ -1,0 +1,76 @@
+AddStaticVehicle(425,-2871.7922,2763.8413,246.6113,297.4732,162,175); // H NSF Research Center Helipad
+AddStaticVehicle(425,3456.9451,3187.3979,8.1513,44.5476,162,175); // H S.A.S Numberwang Helipad
+AddStaticVehicle(425,452.5992,5299.3032,6.8874,129.9541,162,175); // H Brnik Helipad
+AddStaticVehicle(425,2707.5317,-1679.4978,14.2626,166.9141,162,175); // H shea Helipad
+AddStaticVehicle(425,-2646.0596,608.5065,66.6630,206.5130,162,175); // H San Fierro Hospital Helipad
+AddStaticVehicle(425,-1644.1936,2671.0674,65.0292,192.2145,162,175); // H El Quebrados Helipad
+AddStaticVehicle(425,-3076.4658,-2233.4326,3.0112,358.1086,162,175); // H Jumeirah Island Helipad
+AddStaticVehicle(425,4558.3945,-1048.1012,18.1175,214.0276,162,175); // H Orion Island Helipad
+AddStaticVehicle(425,365.6552,2537.0618,17.2138,175.8617,162,175); // H Verdant Meadows Helipad
+AddStaticVehicle(425,-895.2006,-5526.9604,10.2780,128.9006,162,175); // H Kingston Island Helipad
+AddStaticVehicle(425,2340.1338,-637.1891,142.3611,326.7671,162,175); // H Maku Airport Helipad
+AddStaticVehicle(425,-3676.0898,1984.6768,42.9159,238.8639,162,175); // H SF Oil Rig Helipad
+AddStaticVehicle(425,-1172.1104,39.5118,14.7118,221.6665,162,175); // H SFA Helipad
+AddStaticVehicle(425,4844.8984,1799.4218,48.1343,279.0528,162,175); // H Burgeaux Bay Resort Helipad
+AddStaticVehicle(425,1898.3975,5153.0459,15.5427,257.8896,162,175); // H Devon Island Helipad
+AddStaticVehicle(425,-2894.6616,497.9393,5.4845,345.1645,162,175); // H Ocean Flats Airbase Helipad
+AddStaticVehicle(425,-3166.6843,-4723.9678,19.8676,357.1581,162,175); // H Etonia Island Helipad
+AddStaticVehicle(425,-1681.4189,704.2728,31.1759,355.6097,162,175); // H SF Police Station Helipad
+AddStaticVehicle(425,-3480.9082,1626.8197,3.3702,267.4002,162,175); // H Augusto Servero Helipad
+AddStaticVehicle(460,-3114.0366,-2195.0190,2.4884,355.3439,162,175); // W Jumeirah Port Water Field
+AddStaticVehicle(460,2936.9219,-2032.9954,1.7330,62.0456,162,175); // W East Beach Water Field
+AddStaticVehicle(460,-2955.4150,-884.5671,1.5407,95.9102,162,175); // W Sasaki Water Field
+AddStaticVehicle(460,-567.5806,378.3643,1.6760,284.0830,162,175); // W Samota Port Water Field
+AddStaticVehicle(460,-2779.0974,2103.1838,2.1727,185.2449,162,175); // W Portlandia Port Water Field
+AddStaticVehicle(460,-778.3869,624.9272,1.8853,220.2600,162,175); // W Berisha Water Field
+AddStaticVehicle(460,-3520.0002,4500.1060,0.7306,157.6033,162,175); // W Crude Power Station Port Water Field
+AddStaticVehicle(460,-1672.3547,196.8208,1.7411,221.8983,162,175); // W SF Docks Water Field
+AddStaticVehicle(460,-764.4448,1770.1246,1.7071,203.6699,162,175); // W Sherman Dam Dock Water Field
+AddStaticVehicle(460,1334.6869,-281.5456,1.7172,293.0083,162,175); // W Vinewood Waterpark Water Field
+AddStaticVehicle(460,-2086.3057,1932.7532,1.7014,64.9168,162,175); // W Alcatraz Prison Water Field
+AddStaticVehicle(460,-126.3055,-765.1377,1.6806,70.8223,162,175); // W Flint County Water Field
+AddStaticVehicle(425,-123.7198,-723.2972,3.0555,125.6748,162,175); // H Flint County Helipad
+AddStaticVehicle(425,114.4374,1062.2189,16.7008,193.0578,162,175); // H Fort Carson Helipad
+AddStaticVehicle(425,639.9321,3186.3992,8.8002,176.2347,162,175); // H Yuka Airport Helipad
+AddStaticVehicle(425,-751.6853,1841.2087,5.7917,218.8016,162,175); // H Sherman Dam Helipad
+AddStaticVehicle(425,-5026.3530,1239.2024,9.3168,272.3848,162,175); // H Malic Island Helipad
+AddStaticVehicle(425,1541.3361,-1352.8334,330.0193,110.6664,162,175); // H LS Tower Helipad
+AddStaticVehicle(425,3859.1821,-4091.0134,43.7651,93.3588,162,175); // H LS Oil Rig Helipad
+AddStaticVehicle(425,-777.6955,-1137.1047,66.0948,180.0910,162,175); // H Excalibur Helipad
+AddStaticVehicle(425,1183.3107,2518.5972,16.5478,162.5606,162,175); // H Prickle Pine Helipad
+AddStaticVehicle(425,3788.3074,-5788.4512,37.1575,79.8571,162,175); // H Dustin Island Helipad
+AddStaticVehicle(425,-2802.8853,2073.9175,7.6824,171.5586,162,175); // H Portlandia Port Helipad
+AddStaticVehicle(425,-2261.6497,2089.6677,7.2780,88.3939,162,175); // H Alcatraz Prison Helipad
+AddStaticVehicle(425,2618.0654,2720.6582,37.1106,268.3571,162,175); // H K.A.C.C. Helipad
+AddStaticVehicle(425,-6374.9028,-4527.7100,15.8533,260.9398,162,175); // H S.A.S. Adelaide Helipad
+AddStaticVehicle(425,-2400.4934,-2178.9871,33.8610,207.1009,162,175); // H Chilliad Research Center Helipad
+AddStaticVehicle(425,2409.7358,4098.4707,44.0786,141.6620,162,175); // H LV Oil Rig Helipad
+AddStaticVehicle(425,1556.3414,339.7349,20.6210,175.4243,162,175); // H Montgomery Flight Club Helipad
+AddStaticVehicle(425,-669.0038,-1840.6929,29.0976,163.9256,162,175); // H Landfill Helipad
+AddStaticVehicle(425,-1254.0679,2290.5708,133.6912,158.7931,162,175); // H Hayden Rock Helipad
+AddStaticVehicle(425,8658.5986,-3095.4529,6.7971,92.5760,162,175); // H Seychelle Island Helipad
+AddStaticVehicle(425,-4258.4883,3387.8364,7.7683,280.1949,162,175); // H Clarity Island Helipad
+AddStaticVehicle(425,-654.5204,1277.7776,9.9797,279.5512,162,175); // H Las Barrancas Helipad
+AddStaticVehicle(425,-1807.5859,523.7424,245.4762,257.0978,162,175); // H PLR Helipad
+AddStaticVehicle(425,2037.8888,5225.5630,16.8025,4.6991,162,175); // H Devon Island Police Station Helipad
+AddStaticVehicle(425,2089.6831,5299.4297,16.2750,124.9545,162,175); // H Devon Island Medical Center Helipad
+AddStaticVehicle(425,-2126.7866,2679.5525,158.6666,179.1395,162,175); // H Forestry Ridge Helipad
+AddStaticVehicle(425,277.9388,6483.7192,10.3282,162.3347,162,175); // H Frontier Post 314 Helipad
+AddStaticVehicle(460,4338.8413,2637.8608,1.3231,153.5529,162,175); // W Princess Juliana Port Water Field
+AddStaticVehicle(460,-2923.6646,1223.0488,1.9005,107.2929,162,175); // W Palisade Water Field
+AddStaticVehicle(460,-3730.7664,778.2975,1.3371,36.3373,162,175); // W Gangnam Island Port Water Field
+AddStaticVehicle(460,-1922.9185,2135.3015,1.8727,140.6324,162,175); // W Belchatow Water Field
+AddStaticVehicle(460,-520.2416,2222.9756,42.2651,71.8037,162,175); // W Tierra Robada Water Field
+AddStaticVehicle(460,23.3863,-1248.6768,1.6895,263.3283,162,175); // W Flint Intersection Water Field
+AddStaticVehicle(460,2116.3093,-112.0912,1.7254,61.0475,162,175); // W Palomino Outpost Dock Water Field
+AddStaticVehicle(460,-1167.5875,-2149.5198,1.6514,356.8143,162,175); // W Ahican Port Water FIeld
+AddStaticVehicle(460,5361.0059,61.1093,1.5611,344.9587,162,175); // W Pelican Reef Water Field
+AddStaticVehicle(460,-2226.3096,2430.5930,1.9384,312.8150,162,175); // W Bayside Port Water Field
+AddStaticVehicle(425,4870.1152,-3389.4165,21.8691,127.7672,162,175); // H Arecibo Telescope Helipad
+AddStaticVehicle(425,-2226.7947,2326.3218,8.1226,179.4129,162,175); // H Bayside Helipad
+AddStaticVehicle(425,-1493.0793,2178.6548,56.4696,262.0483,162,175); // H Samantha Airport Helipad
+AddStaticVehicle(425,1389.3807,1771.7172,11.3894,307.0782,162,175); // H LVA Helipad
+AddStaticVehicle(425,-3145.8889,1333.6733,12.3265,245.9460,162,175); // H Xoomer Valdiz Supertanker Helipad
+AddStaticVehicle(425,-4561.8203,2445.4248,11.1498,156.7394,162,175); // H Beograd Airport Helipad
+AddStaticVehicle(425,128.7360,-5314.4072,14.9124,265.9409,162,175); // H H.M.S Farley Helipad
+AddStaticVehicle(425,2629.1411,858.2205,12.9571,258.2311,162,175); // H Rockshore East Helipad

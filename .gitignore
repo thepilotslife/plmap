@@ -1,0 +1,5 @@
+*.html
+favicon.ico
+# too don't want to push 13MB files
+# I didn't make it
+map10k-or8.png
