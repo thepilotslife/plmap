@@ -11,6 +11,7 @@ $mapsizey = 20500;
 $mapsize = $mapsizex;
 $size = $sizex;
 $sizeyoffset = ($sizex - $sizey) / 2;
+$sizeyoffset -= 112;
 
 $polygons = '';
 
@@ -344,7 +345,7 @@ text {
 	<g id="all" transform="translate(0,0)">
 
 		<image id="img" x="0" y="{$sizeyoffset}" width="{$sizex}" height="{$sizey}"
-			preserveAspectRatio="none" xlink:href="map.jpg"/>
+			preserveAspectRatio="none" xlink:href="scaled-quality85.jpg"/>
 
 		<g id="r" style="display:none"></g>
 		<g id="y">
@@ -375,11 +376,6 @@ text {
 	<button onclick="toggle('a')">toggle runways</button>
 	<button onclick="toggle('l')">toggle runway labels</button>
 	<button onclick="toggleRoads()">toggle roads</button>
-	<select onchange="$('img').setAttribute('xlink:href', this.value)">
-		<option value="map.jpg">default (2.85MB 6000x4473 jpg)</option>
-		<option value="map-fs8.png">medium (3.66MB 6000x4473 png)</option>
-		<option value="map10k-or8.png">highest (13.3MB 10000x7455 png)</option>
-	</select>
 </p>
 <script>
 {$js}
