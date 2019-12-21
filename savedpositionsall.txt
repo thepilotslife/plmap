@@ -74,3 +74,9 @@ AddStaticVehicle(425,-3145.8889,1333.6733,12.3265,245.9460,162,175); // H Xoomer
 AddStaticVehicle(425,-4561.8203,2445.4248,11.1498,156.7394,162,175); // H Beograd Airport Helipad
 AddStaticVehicle(425,128.7360,-5314.4072,14.9124,265.9409,162,175); // H H.M.S Farley Helipad
 AddStaticVehicle(425,2629.1411,858.2205,12.9571,258.2311,162,175); // H Rockshore East Helipad
+AddStaticVehicle(425,5868.0981,-7664.9751,18.6763,258.2311,162,175); // H Palma de Linda Helipad
+AddStaticVehicle(425,-2587.9097,-3853.4180,10.8178,258.2311,162,175); // H Longe Island Helipad
+AddStaticVehicle(425,-9941.1084,-348.3181,18.8778,258.2311,162,175); // H Forius Helipad
+AddStaticVehicle(425,-6698.1025,1652.3035,3.0979,258.2311,162,175); // H Island of Industry Helipad
+AddStaticVehicle(425,3392.5530,4111.5493,13.1203,258.2311,162,175); // H SAS Fannybaws Helipad
+AddStaticVehicle(425,3156.0132,3914.9373,19.5978,258.2311,162,175); // H Bellend Isle Heliport
