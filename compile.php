@@ -297,6 +297,7 @@ svg+p
 svg
 {
 	cursor: move;
+	background: #6486A4;
 }
 polygon.r
 {
@@ -344,9 +345,6 @@ text {
 	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<g id="all" transform="translate(0,0)">
 
-		<image id="img" x="0" y="{$sizeyoffset}" width="{$sizex}" height="{$sizey}"
-			preserveAspectRatio="none" xlink:href="scaled-quality85.jpg"/>
-
 		<g id="r" style="display:none"></g>
 		<g id="y">
 			<g id="w">
@@ -375,7 +373,7 @@ text {
 	<button onclick="toggle('w')">toggle waterfields</button>
 	<button onclick="toggle('a')">toggle runways</button>
 	<button onclick="toggle('l')">toggle runway labels</button>
-	<button onclick="toggleRoads()">toggle roads</button>
+	<button onclick="toggleRoads()">toggle outdated roads</button>
 </p>
 <script>
 {$js}
